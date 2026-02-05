@@ -13,7 +13,7 @@ g++ PasswordStrengthChecker.cpp -o password_checker
 ./password_checker
 
 ## Screenshots
-See screenshots folder.
+<img width="1539" height="1029" alt="Screenshot Result" src="https://github.com/user-attachments/assets/1da9ada4-e705-4896-b7ff-bfd9887a8d4f" />
 
 ## Disclaimer
 Educational and defensive security project.
